@@ -1,3 +1,5 @@
+<img src="https://cdn.discordapp.com/attachments/809859823872376903/887910114999283722/unknown.png" />
+
 ## 👋 Olá!! Bem vindo(a) ao meu perfil!!
 <br />
 <div> 
@@ -39,4 +41,5 @@
 <br />
  
 ##
+
 
