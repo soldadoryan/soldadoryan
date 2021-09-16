@@ -22,6 +22,22 @@
 
 <br />
 
+<div style="display: flex; align-items: center">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="40" style="margin-top: 20px"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="40" style="margin-top: 20px"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="40" style="margin-top: 20px"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="40" style="margin-top: 20px"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="40" style="margin-top: 20px"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="40" style="margin-top: 20px"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" width="40" style="margin-top: 20px"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="40" style="margin-top: 20px"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="40" style="margin-top: 20px"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" width="40" style="margin-top: 20px"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="40" style="margin-top: 20px"/>
+</div>
+
+<br />
+
 ## 🎓 Formações acadêmicas
 
 <br />
@@ -140,21 +156,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soldadoryan&show_icons=true&theme=react&include_all_commits=true&count_private=true&custom_title=Estatísticas do meu perfil"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soldadoryan&layout=compact&langs_count=7&theme=react&custom_title=Linguagens mais utilizadas"/>
 </div><br />
-
-<div style="display: flex; align-items: center">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="40" style="margin-top: 20px"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="40" style="margin-top: 20px"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="40" style="margin-top: 20px"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="40" style="margin-top: 20px"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="40" style="margin-top: 20px"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="40" style="margin-top: 20px"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" width="40" style="margin-top: 20px"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="40" style="margin-top: 20px"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="40" style="margin-top: 20px"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" width="40" style="margin-top: 20px"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="40" style="margin-top: 20px"/>
-</div>
-<br />
  
 ##
 
