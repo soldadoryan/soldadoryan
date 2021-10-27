@@ -118,7 +118,9 @@
 
 <br />
 
-* **(ATUAL) Task Internet - Analista de Sistemas III:** Levantamento de requisitos, criação de documentações, gestão de projetos, pesquisa de melhores soluções e novas tecnologias, implantação e desenvolvimento de software, organização de metodologias e tecnologias a serem utilizadas. Participação ativa de todo o processo de criação das aplicações e auxílio em treinamento de novos funcionários/estagiários quando necessário. Modelagem de dados, análise de padrões de qualidade, resolução de eventuais problemas em projetos internos e externos.
+* **ioasys - Front-end Developer**
+
+* **Task Internet - Analista de Sistemas III:** Levantamento de requisitos, criação de documentações, gestão de projetos, pesquisa de melhores soluções e novas tecnologias, implantação e desenvolvimento de software, organização de metodologias e tecnologias a serem utilizadas. Participação ativa de todo o processo de criação das aplicações e auxílio em treinamento de novos funcionários/estagiários quando necessário. Modelagem de dados, análise de padrões de qualidade, resolução de eventuais problemas em projetos internos e externos.
 
 <br />
 
