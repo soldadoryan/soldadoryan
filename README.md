@@ -17,7 +17,7 @@
 <br />
 
 <p>
-  Trabalho atualmente como desenvolvedor front-end na <a href="https://ioasys.com.br">ioasys</a> mas possuo experiência de mais de 6 anos em desenvolvimento back-end. Sou estudante de Sistemas de Informação pela Faculdade COTEMIG e possuo especializações em ReactJS, NodeJS e React Native pela <a href="https://rocketseat.com.br/">Rocketseat</a>. 
+  Trabalho atualmente como desenvolvedor front-end na <a href="https://ioasys.com.br">ioasys</a> mas possuo experiência de mais de 10 anos em desenvolvimento full-stack. Sou estudante de Sistemas de Informação pela Faculdade COTEMIG e possuo especializações em ReactJS, NodeJS e React Native pela <a href="https://rocketseat.com.br/">Rocketseat</a>. 
 </p>
 
 <br />
